@@ -21,4 +21,4 @@ The task required participants to implement a Generative Adversarial Network (GA
 In this bonus task, participants were encouraged to train their GAN on a theme-based dataset, with a Christmas theme as a starting point. Participants were free to experiment with other themes as well. Unfortunately, due to time constraints, I was unable to complete this bonus task. As a result, I have skipped this task for now.
 
 ## Reference
-(https://github.com/CynapticsAI/InductionDec2024/tree/main).
+https://github.com/CynapticsAI/InductionDec2024/tree/main
