@@ -3,7 +3,7 @@ This repository contains my work for the Cynaptics Club inductions at IIT Indore
 
 ## Tasks
 
-### **Compulsory Sub-Task 1: AI vs Real Image Classifier (40% weightage)**
+### Compulsory Sub-Task 1: AI vs Real Image Classifier (40% weightage)
 In this task, participants were free to use any algorithm of their choice. The goal was to build a model that could distinguish between real and AI-generated images. This task included two contests on Kaggle.
 **Approach**:
 1. **Starting Point**:
@@ -17,7 +17,7 @@ In this task, participants were free to use any algorithm of their choice. The g
 5. **Second Contest**:
    I applied the same logic to the second contest, and as of now, the maximum accuracy I have achieved is 0.55.
 
-### **Compulsory Sub-Task 2: Implement a GAN (50% weightage)**
+### Compulsory Sub-Task 2: Implement a GAN (50% weightage)
 The task required participants to implement a Generative Adversarial Network (GAN) from scratch, with a baseline script provided for reference. The GAN should be able to generate good images, and bonus points were given if it could be used for an image classification task as well.
 **Approach**:
 1. **Initial Attempt**:
@@ -27,10 +27,10 @@ The task required participants to implement a Generative Adversarial Network (GA
 3. **Outcome**:
    The GAN was able to generate images of leaves, but I did not yet achieve high-quality results. Further tuning and model refinement are necessary to improve the output.
 
-### **Bonus Sub-Task: Train Your GAN on a Theme-Based Dataset (10% weightage)**
+### Bonus Sub-Task: Train Your GAN on a Theme-Based Dataset (10% weightage)
 In this bonus task, participants were encouraged to train their GAN on a theme-based dataset, with a Christmas theme as a starting point. Participants were free to experiment with other themes as well.
 **Approach**:
 Unfortunately, due to time constraints, I was unable to complete this bonus task. As a result, I have skipped this task for now.
 
-## Additional Information
+## Reference
 (https://github.com/CynapticsAI/InductionDec2024/tree/main).
