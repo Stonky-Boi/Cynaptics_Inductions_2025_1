@@ -1,4 +1,7 @@
 ## Overview
+![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/Cynaptics_Inductions_2025_1)
+![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/Cynaptics_Inductions_2025_1)
+![GitHub License](https://img.shields.io/github/license/Stonky-Boi/Cynaptics_Inductions_2025_1)
 This repository contains my work for the Cynaptics Club inductions at IIT Indore. The tasks consist of three main sub-tasks, which I have worked on and will describe below. Each task had specific requirements and evaluations, and I have detailed my approach to solving them.
 
 ## Tasks
