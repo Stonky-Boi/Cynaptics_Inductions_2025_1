@@ -1,4 +1,4 @@
-# Overview
+## Overview
 ![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/Cynaptics_Inductions_2025_1)
 ![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/Cynaptics_Inductions_2025_1)
 ![GitHub License](https://img.shields.io/github/license/Stonky-Boi/Cynaptics_Inductions_2025_1)
